@@ -1,7 +1,8 @@
 body
 {
-   background-color: olive
-
+   background-color: olive;
+   max-width:  900px;
+   margin:auto;
 }
 
 
@@ -13,7 +14,7 @@ color:rgb(2, 54, 25);
 font-weight: bold;
 font-size: 20px;
 font-family: cursive; 
- style= "text-align:center;"
+
 
 
 }
